@@ -13,6 +13,14 @@
      Innovative AI applications and research.
      Creative initiatives in travel exploration, art, or multidisciplinary learning.
 
+- 🤖 I'm Currently Working On the project of AI-Powered Hand Gesture Recognition for Smart Energy Management
+
+  Developing a smart home system that uses AI-powered hand gestures and voice commands to control appliances. The project includes tariff-based energy optimization to reduce power usage during peak hours. Built 
+  using Raspberry Pi, IoT sensors, Firebase, and a Kotlin Android app, aiming to make home automation more accessible and energy-efficient.
+
+🔧 Tech Stack: Python • OpenCV • TensorFlow • Raspberry Pi • MQTT • Firebase • Kotlin
+
+
 
 - 📫 How to reach me
   linkedIn - https://www.linkedin.com/in/akshayalakshmi-s/
